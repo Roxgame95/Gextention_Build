@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         RiskBlackListApp
-// @version      0.1
+// @version      0.2
 // @match        *://*/*
 // @license MIT
 // @description  Wel Help Preventing parcel retourn
