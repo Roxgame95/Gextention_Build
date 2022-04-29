@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Extension
+// @name         RiskBlackListApp
 // @version      0.1
 // @match        *://*/*
 // @license MIT
-// @description  RiskBlackList
-// @author       RiskBlackList
+// @description  Wel Help Preventing parcel retourn
+// @author       RiskBlackList©
 // ==/UserScript==
 
 (function() {'use strict';
