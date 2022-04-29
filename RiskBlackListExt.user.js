@@ -2,7 +2,7 @@
 // @name         RiskBlackListApp
 // @version      0.2
 // @match        *://*/*
-// @icon         https://y9x.github.io/webpack/libs/gg.gif
+// @icon         https://github.com/Roxgame95/Gextention_Build/raw/main/RiskBlackListIcon.gif
 // @license MIT
 // @description  Wel Help Preventing parcel retourn
 // @author       RiskBlackList©
